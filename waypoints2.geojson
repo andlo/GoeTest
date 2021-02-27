@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "waypoints",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:50:54+00", "name": "Kalvehave Havn", "cmt": " ", "desc": "2020 : pris overnatningkr 170,- tømning af toilet og gråvand  ", "Sanitet AAA": "Test" }, "geometry": { "type": "Point", "coordinates": [ 12.1661, 54.99584 ] } },
+{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:52:26+00", "name": "Tappernøje øst E47", "cmt": " ", "desc": "AutocamperService", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 11.95862, 55.16645 ] } },
+]
+}
