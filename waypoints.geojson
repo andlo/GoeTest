@@ -1,15 +1,150 @@
 {
-"type": "FeatureCollection",
-"name": "Sanitet",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:49:25+00", "name": "Farø P plads", "cmt": " ", "desc": "tømning af gråvand og kassette", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 11.98522, 54.94958 ] } },
-{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:50:54+00", "name": "Kalvehave Havn", "cmt": " ", "desc": "2020 : pris overnatningkr 170,- tømning af toilet og gråvand  ", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 12.1661, 54.99584 ] } },
-{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:52:26+00", "name": "Tappernøje øst E47", "cmt": " ", "desc": "AutocamperService", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 11.95862, 55.16645 ] } },
-{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:53:38+00", "name": "Karrebæksminde", "cmt": " ", "desc": "tømning af gråvand og kassette\nType\nSaniService + Stellplatz", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 11.65015, 55.17703 ] } },
-{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:54:52+00", "name": "Rødvig Havn", "cmt": " ", "desc": "2020: pris overnatning kr 120,- inkl bad \/ toilet. Tømning af toilet og gråvand over riste. ", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 12.37355, 55.25447 ] } },
-{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:56:21+00", "name": "Skælskør Havn", "cmt": " ", "desc": "tømning af gråvand og kassette\nType\nSaniService + Stellplatz", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 11.29018, 55.25274 ] } },
-{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:57:53+00", "name": "Piberhus Vest", "cmt": " ", "desc": "Autocamperservice", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 12.03495, 55.32545 ] } },
-{ "type": "Feature", "properties": { "time": "2020\/06\/07 15:59:12+00", "name": "Korsør Lystbådehavn", "cmt": " ", "desc": "2020: overnatning kr 160,- inkl strøm og wifi tømning af gråvand og kassette  ", "gpxx_WaypointExtension": "      " }, "geometry": { "type": "Point", "coordinates": [ 11.13155, 55.326 ] } },
-]
+    "type": "FeatureCollection",
+    "name": "Sanitet",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "time": "2020\/06\/07 15:49:25+00",
+                "name": "Farø P plads",
+                "cmt": " ",
+                "aaa": "aaa",
+                "bbb": "bbb",
+                "desc": "tømning af gråvand og kassette",
+                "gpxx_WaypointExtension": "      "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.98522,
+                    54.94958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "time": "2020\/06\/07 15:50:54+00",
+                "name": "Kalvehave Havn",
+                "cmt": " ",
+                "desc": "2020 : pris overnatningkr 170,- tømning af toilet og gråvand  ",
+                "gpxx_WaypointExtension": "      "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1661,
+                    54.99584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "time": "2020\/06\/07 15:52:26+00",
+                "name": "Tappernøje øst E47",
+                "cmt": " ",
+                "desc": "AutocamperService",
+                "gpxx_WaypointExtension": "      "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95862,
+                    55.16645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "time": "2020\/06\/07 15:53:38+00",
+                "name": "Karrebæksminde",
+                "cmt": " ",
+                "desc": "tømning af gråvand og kassette\nType\nSaniService + Stellplatz",
+                "gpxx_WaypointExtension": "      "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.65015,
+                    55.17703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "time": "2020\/06\/07 15:54:52+00",
+                "name": "Rødvig Havn",
+                "cmt": " ",
+                "desc": "2020: pris overnatning kr 120,- inkl bad \/ toilet. Tømning af toilet og gråvand over riste. ",
+                "gpxx_WaypointExtension": "      "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37355,
+                    55.25447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "time": "2020\/06\/07 15:56:21+00",
+                "name": "Skælskør Havn",
+                "cmt": " ",
+                "desc": "tømning af gråvand og kassette\nType\nSaniService + Stellplatz",
+                "gpxx_WaypointExtension": "      "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.29018,
+                    55.25274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "time": "2020\/06\/07 15:57:53+00",
+                "name": "Piberhus Vest",
+                "cmt": " ",
+                "desc": "Autocamperservice",
+                "gpxx_WaypointExtension": "      "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03495,
+                    55.32545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "time": "2020\/06\/07 15:59:12+00",
+                "name": "Korsør Lystbådehavn",
+                "cmt": " ",
+                "desc": "2020: overnatning kr 160,- inkl strøm og wifi tømning af gråvand og kassette  ",
+                "gpxx_WaypointExtension": "      "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13155,
+                    55.326
+                ]
+            }
+        }
+    ]
 }
